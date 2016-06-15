@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cotton>
+    <type>CashCrop</type><!--cashcrop or foodcrop or animal food....etc-->
+    <yph>4.5-7</yph><!--avg yield per hectare-->
+    <rn>156</rn><!--required nitrogen-->
+    <rp>36</rp><!--required phosphorous-->
+    <rk>151</rk><!--required pottasium-->
+    <types><!--types among their species-->
+      <type1>Gossypium hirsutum </type1>
+      <type2>Gossypium barbadense</type2>
+      <type3>Gossypium arboreum - Indian</type3>
+      <type4>Gossypium herbaceum</type4>
+    </types>
+    <wr>700mm-1300mm</wr><!--water required :low,moderate,high-->
+    <duration>195-225days</duration><!--time to get output-->
+    <level>Medium</level><!--Hard,medium,easy-->
+    <marketrates><!--market rate-->
+      <rate year="2009">170</rate><!--2009 market rate-->
+      <rate year="2010">200</rate>
+      <rate year="2011">150</rate>
+      <rate year ="2012">130</rate>
+    </marketrates>
+    <fertilizers>
+      <cat name="natural"> <!--catageory: natural fertilizers-->
+      <nf>nfer</nf>  <!--natural nitrogen fertilizer name-->
+      <pf>pfer</pf>  <!--natural phosphorous fertilizer name-->
+      <kf>kfer</kf>  <!--natural potassium fertilizer name-->
+      </cat>
+      <cat name="che"> <!--catageory: chemicla fertilizers-->
+      <nf>ncfer</nf>
+      <pf>pcfer</pf>
+      <kf>kcfer</kf>
+      </cat>
+    </fertilizers>
+    <avgtemp>25-35</avgtemp><!--avg temperature require for good yeild-->
+    <aiph>4678</aiph><!--avg investment per hectare-->
+    <wl>http://www.fao.org/nr/water/cropinfo_cotton.html</wl><!--web link or any aother open link-->
+</Cotton>

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-4BUC8D6NSAN</Machine>
+    <WindowsUser>K NavatejaReddy</WindowsUser>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\Efarmer.exe">
+      <PackagePath>Efarmer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\Efarmer.pdb">
+      <PackagePath>Efarmer.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\packages\HTMLAgility_Metro\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\WideLogo\WideLogo_558x270.scale-100.png">
+      <PackagePath>Assets\WideLogo\WideLogo_558x270.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\WideLogo\WideLogo_558x270.scale-140.png">
+      <PackagePath>Assets\WideLogo\WideLogo_558x270.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\WideLogo\WideLogo_558x270.scale-180.png">
+      <PackagePath>Assets\WideLogo\WideLogo_558x270.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\WideLogo\WideLogo_558x270.scale-80.png">
+      <PackagePath>Assets\WideLogo\WideLogo_558x270.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\images\cotton.png">
+      <PackagePath>Data\images\cotton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\images\cotton_plantdiagram.png">
+      <PackagePath>Data\images\cotton_plantdiagram.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\images\cotton_yield.png">
+      <PackagePath>Data\images\cotton_yield.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Beans.html">
+      <PackagePath>Data\Beans.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\ChickPea.html">
+      <PackagePath>Data\ChickPea.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Coffee.html">
+      <PackagePath>Data\Coffee.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Cotton.html">
+      <PackagePath>Data\Cotton.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Groundnut.html">
+      <PackagePath>Data\Groundnut.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Jute.html">
+      <PackagePath>Data\Jute.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Maize.html">
+      <PackagePath>Data\Maize.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Peas.html">
+      <PackagePath>Data\Peas.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\PigeonPea.html">
+      <PackagePath>Data\PigeonPea.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Potatos.html">
+      <PackagePath>Data\Potatos.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Rice.html">
+      <PackagePath>Data\Rice.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\SoyaBeans.html">
+      <PackagePath>Data\SoyaBeans.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\SugarCane.html">
+      <PackagePath>Data\SugarCane.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Tea.html">
+      <PackagePath>Data\Tea.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Wheat.html">
+      <PackagePath>Data\Wheat.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\sdb.db">
+      <PackagePath>sdb.db</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\hardware_details1.xaml">
+      <PackagePath>hardware_details1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\hardware_details2.xaml">
+      <PackagePath>hardware_details2.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\hardware_overview.xaml">
+      <PackagePath>hardware_overview.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\help.xaml">
+      <PackagePath>help.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\ProfileUpdate.xaml">
+      <PackagePath>ProfileUpdate.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\recommendedcrops.xaml">
+      <PackagePath>recommendedcrops.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\reportslist.xaml">
+      <PackagePath>reportslist.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\soiltestOptions.xaml">
+      <PackagePath>soiltestOptions.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\testmode.xaml">
+      <PackagePath>testmode.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\test_info_common.xaml">
+      <PackagePath>test_info_common.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\test_overview.xaml">
+      <PackagePath>test_overview.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

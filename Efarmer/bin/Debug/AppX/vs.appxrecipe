@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-4BUC8D6NSAN</Machine>
+    <WindowsUser>K NavatejaReddy</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>71F8F3EAF6219565CEC10A043EFC73C2DD1F1C76FB2094EB06AA8F39EB7A9FD3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8b94c119-2da0-42a7-9afe-ae4d45772b2d_1.0.0.0_neutral__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8b94c119-2da0-42a7-9afe-ae4d45772b2d_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8b94c119-2da0-42a7-9afe-ae4d45772b2d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-08T08:23:17.197</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\Efarmer.exe">
+      <PackagePath>Efarmer.exe</PackagePath>
+      <Modified>2013-01-08T08:38:07.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\Efarmer.pdb">
+      <PackagePath>Efarmer.pdb</PackagePath>
+      <Modified>2013-01-08T08:38:07.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\ButtonLogos\profile.png">
+      <PackagePath>Assets\ButtonLogos\profile.png</PackagePath>
+      <Modified>2013-01-08T06:33:02.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\ButtonLogos\report.png">
+      <PackagePath>Assets\ButtonLogos\report.png</PackagePath>
+      <Modified>2013-01-08T06:24:56.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\ButtonLogos\Test.png">
+      <PackagePath>Assets\ButtonLogos\Test.png</PackagePath>
+      <Modified>2013-01-08T05:42:14.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\Logos\Applogo.png">
+      <PackagePath>Assets\Logos\Applogo.png</PackagePath>
+      <Modified>2013-01-08T07:17:16.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-01-08T06:08:21.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\ProfileUpdate.xaml">
+      <PackagePath>ProfileUpdate.xaml</PackagePath>
+      <Modified>2013-01-08T08:23:11.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-01-08T08:38:05.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-08T08:18:14.353</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-4BUC8D6NSAN</Machine>
+    <WindowsUser>K NavatejaReddy</WindowsUser>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <RegisteredManifestChecksum>43F503AF53295B2A073E0BE06C9ADD60D037C8B00BFD5DCE016071BF06D84D3F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>07s94c119-2da0-42a7-9afe-ae4d45772b2d_1.0.0.1_x86__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>07s94c119-2da0-42a7-9afe-ae4d45772b2d_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>07s94c119-2da0-42a7-9afe-ae4d45772b2d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-24T04:45:18.656</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\Efarmer.exe">
+      <PackagePath>Efarmer.exe</PackagePath>
+      <Modified>2013-02-24T11:33:30.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\Efarmer.pdb">
+      <PackagePath>Efarmer.pdb</PackagePath>
+      <Modified>2013-02-24T11:33:30.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\packages\HTMLAgility_Metro\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+      <Modified>2012-06-19T14:37:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2013-01-10T09:01:08.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+      <Modified>2013-01-10T09:01:08.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-24T10:11:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\images\cotton.png">
+      <PackagePath>Data\images\cotton.png</PackagePath>
+      <Modified>2013-02-09T17:22:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\images\cotton_plantdiagram.png">
+      <PackagePath>Data\images\cotton_plantdiagram.png</PackagePath>
+      <Modified>2013-02-09T17:44:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\images\cotton_yield.png">
+      <PackagePath>Data\images\cotton_yield.png</PackagePath>
+      <Modified>2013-02-09T17:44:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\tile\tileimage1.jpg">
+      <PackagePath>Assets\tile\tileimage1.jpg</PackagePath>
+      <Modified>2013-02-23T15:56:43.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\tile\tileimage2.jpg">
+      <PackagePath>Assets\tile\tileimage2.jpg</PackagePath>
+      <Modified>2013-02-23T15:59:54.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\tile\tileimage3.jpg">
+      <PackagePath>Assets\tile\tileimage3.jpg</PackagePath>
+      <Modified>2013-02-23T16:14:57.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\tile\tileimage4.jpg">
+      <PackagePath>Assets\tile\tileimage4.jpg</PackagePath>
+      <Modified>2013-02-23T16:03:54.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Beans.html">
+      <PackagePath>Data\Beans.html</PackagePath>
+      <Modified>2013-02-09T07:52:19.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\ChickPea.html">
+      <PackagePath>Data\ChickPea.html</PackagePath>
+      <Modified>2013-02-09T07:52:19.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Coffee.html">
+      <PackagePath>Data\Coffee.html</PackagePath>
+      <Modified>2013-02-09T07:52:19.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Cotton.html">
+      <PackagePath>Data\Cotton.html</PackagePath>
+      <Modified>2013-02-10T12:19:32.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Groundnut.html">
+      <PackagePath>Data\Groundnut.html</PackagePath>
+      <Modified>2013-02-09T07:52:19.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Jute.html">
+      <PackagePath>Data\Jute.html</PackagePath>
+      <Modified>2013-02-11T08:24:41.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Maize.html">
+      <PackagePath>Data\Maize.html</PackagePath>
+      <Modified>2013-02-10T15:19:32.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Peas.html">
+      <PackagePath>Data\Peas.html</PackagePath>
+      <Modified>2013-02-09T07:52:19.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\PigeonPea.html">
+      <PackagePath>Data\PigeonPea.html</PackagePath>
+      <Modified>2013-02-09T07:52:19.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Potatos.html">
+      <PackagePath>Data\Potatos.html</PackagePath>
+      <Modified>2013-02-09T07:50:54.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Rice.html">
+      <PackagePath>Data\Rice.html</PackagePath>
+      <Modified>2013-02-09T07:50:54.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\SoyaBeans.html">
+      <PackagePath>Data\SoyaBeans.html</PackagePath>
+      <Modified>2013-02-09T07:50:54.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\SugarCane.html">
+      <PackagePath>Data\SugarCane.html</PackagePath>
+      <Modified>2013-02-09T07:50:54.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Tea.html">
+      <PackagePath>Data\Tea.html</PackagePath>
+      <Modified>2013-02-09T07:50:54.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Data\Wheat.html">
+      <PackagePath>Data\Wheat.html</PackagePath>
+      <Modified>2013-02-09T07:50:54.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2013-01-08T08:39:42.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\sdb.db">
+      <PackagePath>sdb.db</PackagePath>
+      <Modified>2013-02-09T19:09:45.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-01-08T06:08:21.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\hardware_details1.xaml">
+      <PackagePath>hardware_details1.xaml</PackagePath>
+      <Modified>2013-02-19T15:27:09.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\hardware_details2.xaml">
+      <PackagePath>hardware_details2.xaml</PackagePath>
+      <Modified>2013-02-21T19:16:26.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\hardware_overview.xaml">
+      <PackagePath>hardware_overview.xaml</PackagePath>
+      <Modified>2013-02-21T19:36:50.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\help.xaml">
+      <PackagePath>help.xaml</PackagePath>
+      <Modified>2013-02-19T15:26:25.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\ProfileUpdate.xaml">
+      <PackagePath>ProfileUpdate.xaml</PackagePath>
+      <Modified>2013-02-23T14:38:13.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-02-24T05:24:41.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\recommendedcrops.xaml">
+      <PackagePath>recommendedcrops.xaml</PackagePath>
+      <Modified>2013-02-19T17:03:06.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\reportslist.xaml">
+      <PackagePath>reportslist.xaml</PackagePath>
+      <Modified>2013-02-19T17:07:19.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\soiltestOptions.xaml">
+      <PackagePath>soiltestOptions.xaml</PackagePath>
+      <Modified>2013-02-21T18:53:49.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\testmode.xaml">
+      <PackagePath>testmode.xaml</PackagePath>
+      <Modified>2013-02-19T15:24:59.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\test_info_common.xaml">
+      <PackagePath>test_info_common.xaml</PackagePath>
+      <Modified>2013-02-24T05:18:20.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\test_overview.xaml">
+      <PackagePath>test_overview.xaml</PackagePath>
+      <Modified>2013-02-21T19:23:26.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-24T04:45:18.537</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

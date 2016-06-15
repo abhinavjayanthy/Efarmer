@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-4BUC8D6NSAN</Machine>
+    <WindowsUser>K NavatejaReddy</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\Efarmer.exe">
+      <PackagePath>Efarmer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\Efarmer.pdb">
+      <PackagePath>Efarmer.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\ButtonLogos\profile.png">
+      <PackagePath>Assets\ButtonLogos\profile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\ButtonLogos\report.png">
+      <PackagePath>Assets\ButtonLogos\report.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\ButtonLogos\Test.png">
+      <PackagePath>Assets\ButtonLogos\Test.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\Logos\Applogo.png">
+      <PackagePath>Assets\Logos\Applogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\ProfileUpdate.xaml">
+      <PackagePath>ProfileUpdate.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\K NavatejaReddy\Documents\Visual Studio 2012\Projects\Efarmer\Efarmer\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

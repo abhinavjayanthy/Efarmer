@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="Efarmer.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Efarmer"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" FontFamily="Global User Interface">
+	<Page.Projection>
+		<PlaneProjection/>
+	</Page.Projection>
+	<Page.Background>
+		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+			<GradientStop Color="Black"/>
+			<GradientStop Color="White" Offset="1"/>
+		</LinearGradientBrush>
+	</Page.Background>
+
+    <Grid x:Name="Index">
+        
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        
+    	<Button x:Name="test_button" HorizontalAlignment="Center" Margin="39,260,876,358" VerticalAlignment="Center" BorderThickness="0" Click="test_button_Click" Foreground="White" Background="#FF55B21F" Content="Soil Test and Analysis" FontSize="36" FontWeight="Bold" FontFamily="Calibri" Height="150" Width="451"  />
+        <Button x:Name="reports_button" HorizontalAlignment="Center" Margin="727,260,33,353" VerticalAlignment="Center" BorderThickness="0" Background="#FF21618D" Content="Reports" FontSize="36" FontWeight="Bold"  Foreground="White" Click="reports_button_Click" Padding="12,4" Width="606" Height="155"/>
+        <Button x:Name="profile_button" HorizontalAlignment="Center" Margin="655.551,438.238,33,222.825" VerticalAlignment="Center" BorderThickness="0" Click="profile_button_Click" Background="#FF0BA0B8" Content="Update Profile" FontSize="36" Foreground="White" FontWeight="Bold" Padding="12,4" UseLayoutRounding="False" Width="677.449" Height="106.937"/>
+
+        <StackPanel x:Name="top_panel" HorizontalAlignment="Left" Height="99" VerticalAlignment="Top" Orientation="Horizontal" Margin="10,10,0,0" Background="Black" Width="1346">
+
+            <TextBlock x:Name="welcome_block" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Center" Height="48" Margin="0,34,0,17" Width="175">
+            	<Run FontSize="36" Text="  Welcome"/>
+            </TextBlock>
+            <TextBlock x:Name="name_from_db" Width="977" TextWrapping="Wrap" Margin="4,43,20,26" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" Height="30"/>
+            <TextBlock x:Name="welcome_block_Copy" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Center" Margin="0,34,0,18" FontWeight="Bold" Padding="0" Width="162" Height="47">
+            	<Run FontSize="36" Text="E-Farmer"/>
+            </TextBlock>
+
+
+        </StackPanel>
+        
+        <Button x:Name="help_button" HorizontalAlignment="Center" Margin="39,442,715,223" VerticalAlignment="Center" BorderThickness="0" Click="help_button_Click" Background="#FF0BA0B8" Content="Help" FontSize="36" Foreground="White" FontWeight="Bold" Padding="12,4" Height="103" Width="612"/>
+
+
+
+
+
+    </Grid>
+</Page>
